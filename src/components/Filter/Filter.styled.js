@@ -12,7 +12,8 @@ gap: 20px;
 `;
 export const FilterInput = styled.input`
 font-size: 20px;
-min-width: 400px;
+min-width: 300px;
+display: flex;
 min-height: 40px;
 border-radius: 7px;
 `;
