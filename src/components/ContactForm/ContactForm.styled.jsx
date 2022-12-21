@@ -26,7 +26,6 @@ display: block;
 margin-top: 20px;
 margin-bottom: 10px;
 padding: 0 16px 0 16px;
-// min-width: 100px;
 height: 40px;
 border-radius: 5px;
 color: black;
